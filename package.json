@@ -1,0 +1,23 @@
+{
+  "name": "yonui-ncc",
+  "version": "0.0.0",
+  "description": "yonui ncc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonui/yonui-ncc.git"
+  },
+  "keywords": [
+    "tinper",
+    "bee"
+  ],
+  "author": "FED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonui/yonui-ncc/issues"
+  },
+  "homepage": "https://github.com/yonui/yonui-ncc#readme"
+}
